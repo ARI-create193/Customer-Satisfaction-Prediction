@@ -90,9 +90,7 @@ The Gradio interface will automatically open in your browser with a shareable pu
 - Ticket Status, Ticket Priority, Ticket Channel
 - Customer Satisfaction Rating (1-5), Date of Purchase
 
-**File**: Auto-generated sample data or upload your own CSV
-
-**Source**: Realistic customer support simulation data
+**Source**: [Kaggle - Customer Support Ticket Dataset](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset)
 
 ## 🛠️ Technologies Used
 - **Python** - Main programming language
