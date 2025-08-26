@@ -109,7 +109,7 @@ customer-satisfaction-system/
 ├── Customer_Satisfaction_Prediction.ipynb  # Main dashboard script
 ├── requirements.txt                        # Python dependencies
 ├── README.md                              # This file
-├── sample_data/                           # Generated datasets
+├── Dataset                           
 └── screenshots/                           # Dashboard screenshots
 ```
 
