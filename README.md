@@ -116,4 +116,4 @@ customer-satisfaction-system/
 ## 📧 Contact
 *Aryan Kaminwar* - aryankaminwar@gmail.com
 
-**GitHub**: [Customer-Satisfaction-Prediction](https://github.com/ARI-create193/Netflix-data-Analysis-Prediction-Recommendation-Dashboard)
+**GitHub**: [Customer-Satisfaction-Prediction](https://github.com/ARI-create193/Customer-Satisfaction-Prediction/tree/main)
