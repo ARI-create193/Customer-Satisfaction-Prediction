@@ -108,7 +108,7 @@ customer-satisfaction-system/
 ├── requirements.txt                        # Python dependencies
 ├── README.md                              # This file
 ├── Dataset                           
-└── screenshots/                           # Dashboard screenshots
+└── Screenshots/                           # Dashboard screenshots
 ```
 
 ## 📧 Contact
